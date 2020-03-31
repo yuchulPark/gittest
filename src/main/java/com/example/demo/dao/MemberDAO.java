@@ -1,6 +1,10 @@
 package com.example.demo.dao;
 
 public class MemberDAO {
+	public void listMember() {
+		System.out.println("리스트");
+	}
+	
 	public void insertMember() {
 		System.out.println("추가");
 	}
