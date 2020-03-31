@@ -12,4 +12,8 @@ public class MemberDAO {
 		System.out.println("멤버 삭제함");
 		System.out.println("ASDASDQWRSKFMLAKSFMLAKF");
 	}
+	
+	public void deleteMember() {
+		System.out.println("삭제 추가");
+	}
 }
